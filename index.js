@@ -19,3 +19,8 @@ function divide(a, b)
   number = a / b;
   return number;
 }
+function inc(a)
+{
+  number = a - 1;
+  return number;
+}
