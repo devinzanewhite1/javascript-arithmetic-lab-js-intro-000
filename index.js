@@ -6,6 +6,6 @@ function add(a, b)
 }
 function subtract(a, b)
 {
-  number = 20 - 12;
+  number = a - b;
   return number;
 }
