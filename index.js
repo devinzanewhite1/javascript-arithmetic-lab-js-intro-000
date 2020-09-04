@@ -1,4 +1,3 @@
-add("1 + 2")
-"23 - 20"
-"3 * 2.4"
-"5.0 / 2.5"
+function add(a + b)
+number = 10 + 4;
+return number
