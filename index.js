@@ -21,6 +21,6 @@ function divide(a, b)
 }
 function increment(a)
 {
-  number = a - 1;
+  number = a + 1;
   return number;
 }
